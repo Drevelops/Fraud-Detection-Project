@@ -1,0 +1,6 @@
+amount_bracket,transaction_count,fraud_count,fraud_rate_percent,fraud_losses,avg_amount
+Very Large (500+),9492,35.0,0.3687,31194.9,1031.46
+Micro (0-10),97314,249.0,0.2559,458.9,3.7
+Large (200-500),19823,50.0,0.2522,15770.99,304.11
+Medium (50-200),65788,102.0,0.155,11138.15,101.3
+Small (10-50),92390,56.0,0.0606,1565.03,25.1
