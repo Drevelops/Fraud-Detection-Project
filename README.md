@@ -16,7 +16,7 @@ Comprehensive analysis of credit card fraud patterns using SQL, Python, and Tabl
 ## Deliverables
 - [Jupyter Notebook Analysis](fraud_detection_sql_analysis.ipynb)
 - [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/andre.wheeler/viz/CreditCardFraudDetectionAnalysis_17573792895720/KPIDashboard)
-
+![Tableau dashboard screenshot](images/Dashboard_Screenshot.png)
 ## Business Recommendations
 - Enhanced monitoring for 500-750 transaction range
 - 24-hour fraud operations coverage
